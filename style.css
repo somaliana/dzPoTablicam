@@ -1,0 +1,13 @@
+ol {
+    background-color:black;
+    color: white;
+
+}
+ul {
+    background-color: brown;
+    list-style: circle;
+}
+dl {
+    background-color:rgb(39, 110, 172);
+    list-style:disc;
+}
